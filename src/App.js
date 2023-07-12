@@ -1,9 +1,9 @@
-import Recipe from './Component/Recipe';
+import Recipesave from './Component/Recipesave';
 import './App.css';
 
 const  App =() =>{
   return (
-      <Recipe/>
+      <Recipesave/>
   );
 }
 

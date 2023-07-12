@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 } */
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: auto;
+  background-color:midnightblue;
+  
+}
+.heading{
+  background-color: burlywood;
+  padding: 20px;
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.name{
+  background-color: burlywood;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.recipe-name{
+  background-color: burlywood;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.recipedes{
+  background-color: burlywood;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.date{
+  background-color: burlywood;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.btn1{
+  outline: 2px solid black;
+  padding: 9px;
+  justify-content: left;
+  display: flex;
+  align-items: center;
+  font-weight: bolder;
+  font-size: larger;
+  border-radius: 20px;
+}
+.one{
+  background-color: burlywood;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
