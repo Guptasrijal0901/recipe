@@ -2,8 +2,8 @@ import React, { useState } from "react";
 
 const Recipe = ()=>{
     const [name, setname]=useState([]);
-    const [recipename, setrecipename]=useState("");
-    const [recipe, setrecipe]=useState("");
+    const [recipename, setrecipename]=useState([]);
+    const [recipe, setrecipe]=useState([]);
     const [date, setdate]=useState(new Date());
 
     const createRecipe = ()=>{
